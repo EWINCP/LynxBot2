@@ -128,7 +128,7 @@ global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 global.packname = `╭ LynxBot 🐈\n┃\n┃ » 𝚃𝚎𝚕𝚎𝚐𝚛𝚊𝚖:\n┃ @globalgb\n┃\n┃ » 𝚈𝚘𝚞𝚃𝚞𝚋𝚎:\n┃ @LynxBot\n┃\n┃ » 𝙸𝚗𝚜𝚝𝚊𝚐𝚛𝚊𝚖:\n┃ @LynxBot\n╰━━━━━━━━•` //"LynxBot 🐈"
-global.author = ` ╭ LynxBot ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ LynxBot\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕: \n ┃ @edwincp\n ╰━━━━━━━━•` //"Edwin Corona"
+global.author = ` ╭ LynxBot ✓\n ┃\n ┃ » 𝙶𝚒𝚝𝙷𝚞𝚋:\n ┃ LynxBot\n ┃\n ┃ ⊹ Super Bot WhatsApp.\n ┃\n ┃ ♡ Apoyo\n ┃ » 𝙿𝚊𝚢𝙿𝚊𝚕: \n ┃ @edwincp44\n ╰━━━━━━━━•` //"Edwin Corona"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -446,6 +446,6 @@ global.md = 'https://github.com/EWINCP/LynxBot2'
 global.fb = ''
 global.tk = 'https://www.tiktok.com/@LynxBot'
 global.ths = 'https://www.threads.net/@LynxBot'
-global.paypal = 'https://paypal.me/edwincp'
+global.paypal = 'https://paypal.me/edwincp44'
 global.asistencia = 'https://wa.me/message/+525579436135'
 global.all = 'https://www.atom.bio/LynxBot'
